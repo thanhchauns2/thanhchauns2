@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**thanhchauns2/thanhchauns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam
 
 Here are some ideas to get you started:
 

@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 Contact me through my Facebook.
 - 😄 Pronouns: Go far as stupidly as you can.
 - ⚡ Fun fact: I eat Oreo without the cream lol.
+
 --> For work please send via email: terrorblade7227@gmail.com

@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I eat Oreo without the cream lol.
 
 --> For work please send via email: terrorblade7227@gmail.com
+
+https://github-readme-stats.vercel.app/api?username=%3Cname%3E&include_all_commits=true

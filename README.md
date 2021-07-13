@@ -12,7 +12,7 @@ Computer Science student from Post and Telecommuication Institute of Technology,
 - 🤔 I’m looking for help with `FE`.
 - 💬 Ask me about... anything also, if i have time.
 - 😄 Pronouns: Go far as stupidly as you can.
-- ⚡ Fun fact: I eat Oreo without the cream lol.
+- ⚡ Fun fact: No.
 
 --> For work please send via email: terrorblade7227@gmail.com
 

@@ -36,6 +36,6 @@ Computer Science student from Post and Telecommuication Institute of Technology,
 </details> -->
 
 -----
-Credits: [Thanhchauns2](https://github.com/thanhchauns2)
+<!-- Credits: [Thanhchauns2](https://github.com/thanhchauns2) -->
 
 Last Edited on: 14/07/2021

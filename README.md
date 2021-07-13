@@ -4,7 +4,7 @@ Computer Science student from Post and Telecommuication Institute of Technology,
 
 :mailbox: Reach me out!
 
- [![Mail Badge](https://img.shields.io/badge/-@tuilabaotrung-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thanhchauns2/) [![Mail Badge](https://img.shields.io/badge/-baotrung372k-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:terrorblade7227@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-@thanhchauns2-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thanhchauns2/) [![Mail Badge](https://img.shields.io/badge/-terrorblade72-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:terrorblade7227@gmail.com)
 
 - 🔭 I’m currently working as a `contest creator`, and a `self-trainee fullstack developer`.
 - 🌱 I’m currently learning `FE`, `BE` and `AI`.

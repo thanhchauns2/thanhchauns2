@@ -2,6 +2,8 @@
 
 Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam
 
+If you like my projects, buy me a coffee: 4665849150760898 (Visa)
+
 :mailbox: Reach me out!
 
 [![FaceBook Badge](https://img.shields.io/badge/-terrorblade72-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/terrorblade72/) [![Mail Badge](https://img.shields.io/badge/-@thanhchauns2-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thanhchauns2/) [![Mail Badge](https://img.shields.io/badge/-terrorblade72-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:terrorblade7227@gmail.com)

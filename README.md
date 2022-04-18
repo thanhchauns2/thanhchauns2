@@ -8,13 +8,11 @@ If you like my projects, buy me a coffee: 4665849150760898 (Visa)
 
 [![FaceBook Badge](https://img.shields.io/badge/-terrorblade72-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/terrorblade72/) [![Mail Badge](https://img.shields.io/badge/-@thanhchauns2-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thanhchauns2/) [![Mail Badge](https://img.shields.io/badge/-terrorblade72-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:terrorblade7227@gmail.com)
 
-- 🔭 I’m currently working as a `contest creator`, and a `self-trainee fullstack developer`.
-- 🌱 I’m currently learning `FE`, `BE` and `AI`.
-- 👯 I’m looking to collaborate on... anything, maybe? I love collaborations.
-- 🤔 I’m looking for help with `FE`.
-- 💬 Ask me about... anything also, if i have time.
-- 😄 Pronouns: Go far as stupidly as you can.
-- ⚡ Fun fact: No.
+- 🔭 I’m currently working as a `contest author`, and a `freelancing developer`.
+- 🌱 I’m currently learning `NLP` and `Computer Vision`.
+- 👯 I’m looking to collaborate on several projects, which is about everything using python. DM me if you're interested.
+- 💬 Ask me about anything you want, if i have time.
+- 😄 Pronouns: First time?
 
 --> For work please send via email: terrorblade7227@gmail.com
 

@@ -10,7 +10,7 @@ If you like my projects, buy me a coffee: 4665849150760898 (Visa)
 
 - 🔭 I’m currently working as a `contest author`, and a `freelancing developer`.
 - 🌱 I’m currently learning `NLP` and `Computer Vision`.
-- 👯 I’m looking to collaborate on several projects, which is about everything using python. DM me if you're interested.
+- 👯 I’m looking to collaborate on several projects, mainly python, which is just about everything. DM me if you're interested.
 - 💬 Ask me about anything you want, if i have time.
 - 😄 Pronouns: First time?
 

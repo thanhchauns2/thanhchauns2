@@ -6,7 +6,12 @@ If you like my projects, buy me a coffee: 4665849150760898 (Visa)
 
 :mailbox: Reach me out!
 
-[![FaceBook Badge](https://img.shields.io/badge/-terrorblade72-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/terrorblade72/) [![Mail Badge](https://img.shields.io/badge/-@thanhchauns2-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thanhchauns2/) [![Mail Badge](https://img.shields.io/badge/-terrorblade72-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:terrorblade7227@gmail.com)
+[![FaceBook Badge](https://img.shields.io/badge/-terrorblade72-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/terrorblade72/) [![Mail Badge](https://img.shields.io/badge/-@thanhchauns2-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thanhchauns2/) [![Mail Badge](https://img.shields.io/badge/-terrorblade72-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:terrorblade7227@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chau-nguyen-thanh-b87224206) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhchauns2) [![Codeforces Badge]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white))](https://codeforces.com/profile/thanhchauns2) 
+
+
+discordbotlist.com/bots/nymphosic
+
+motvaidongcodemoingay.blogspot.com
 
 - 🔭 I’m currently working as a `contest author`, and a `freelancing developer`.
 - 🌱 I’m currently learning `NLP` and `Computer Vision`.

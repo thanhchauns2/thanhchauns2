@@ -25,11 +25,11 @@ Will update later
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhchauns2&theme=radical&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhchauns2&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working as a `contest author`, and a `freelancing developer`.
+<!-- - 🔭 I’m currently working as a `contest author`, and a `freelancing developer`.
 - 🌱 I’m currently learning `NLP` and `Computer Vision`.
 - 👯 I’m looking to collaborate on several projects, mainly python, which is just about everything. DM me if you're interested.
 - 💬 Ask me about anything you want, if i have time.
-- 😄 Pronouns: First time?
+- 😄 Pronouns: First time? -->
 
 <!-- ## 📈 Github Stats
 

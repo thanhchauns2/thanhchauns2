@@ -12,7 +12,7 @@ If you like my projects, buy me a coffee: 4665849150760898 (Visa)
 
 [![FaceBook Badge](https://img.shields.io/badge/-terrorblade72-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/terrorblade72/) [![Mail Badge](https://img.shields.io/badge/-@thanhchauns2-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/thanhchauns2/) [![Mail Badge](https://img.shields.io/badge/-terrorblade72-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:terrorblade7227@gmail.com)
 
-## More social media:
+## More social medias:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chau-nguyen-thanh-b87224206) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhchauns2) [![Codeforces Badge](https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465)](https://codeforces.com/profile/thanhchauns2) [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/736425067105353858) [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/chaunguyenthanh) 
 

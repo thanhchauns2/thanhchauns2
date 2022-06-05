@@ -2,11 +2,13 @@
 
 <img src="https://codeforces.com/predownloaded/b8/12/b812e5325fbb8245a0fabf3214b1e185d55b1bf4.png">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=7BF7DB&background=FFFFFF00&lines=From+Hanoi+with+a+little+wind.;The+21th+night+of+September.)](https://git.io/typing-svg)
+
 # Hi there!
 
 I'm Nguyen Thanh Chau, Computer Science student from Post and Telecommuication Institute of Technology, Hanoi, Vietnam
 
-If you like my projects, buy me a coffee: 4665849150760898 (Visa)
+Buy me a coffee: 4665849150760898 (Visa)
 
 ## Reach me out!
 

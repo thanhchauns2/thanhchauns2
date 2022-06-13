@@ -1,6 +1,10 @@
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> -->
 
-<img src="https://codeforces.com/predownloaded/b8/12/b812e5325fbb8245a0fabf3214b1e185d55b1bf4.png">
+<!-- <img src="https://codeforces.com/predownloaded/b8/12/b812e5325fbb8245a0fabf3214b1e185d55b1bf4.png"> -->
+
+<!-- ![](https://github.com/thanhchauns2/thanhchauns2/blob/main/anime-night.gif?raw=true) -->
+
+<img src="https://github.com/thanhchauns2/thanhchauns2/blob/main/anime-night.gif?raw=true" width="747" height = "411">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=7BF7DB&background=FFFFFF00&lines=From+Hanoi+with+a+little+wind.;The+21th+night+of+September.)](https://git.io/typing-svg)
 
